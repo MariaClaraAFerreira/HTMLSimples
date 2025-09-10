@@ -1,0 +1,28 @@
+header{
+    background: rgb(48, 113, 113);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+footer{
+
+    background:  rgb(48, 113, 113);
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+
+
+.img2 {
+  width: 700px;
+  height: auto; /* mantém a proporção */
+  
+}
+
+section{
+
+    text-align: center;
+    
+}
