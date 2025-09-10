@@ -11,6 +11,10 @@ footer{
     padding: 20px;
     text-align: center;
     color: white;
+    position:fixed;
+    bottom: 0;
+    width: 1435px;
+    
 }
 
 
@@ -18,11 +22,13 @@ footer{
 .img2 {
   width: 700px;
   height: auto; /* mantém a proporção */
+  ;
   
 }
 
 section{
 
     text-align: center;
+    align-items: center;
     
 }
